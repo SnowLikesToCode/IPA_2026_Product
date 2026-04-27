@@ -1,0 +1,18 @@
+# Runtime data and logs
+data/
+logs/
+*.log
+
+# Local secrets and generated credentials
+.env
+*.keystore
+certs/
+*.p12
+*.pem
+*.key
+*.crt
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
